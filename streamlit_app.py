@@ -80,7 +80,9 @@ def user_input(user_question):
 
 def main():
     st.set_page_config("Chat PDF")
-    st.header("Chat with PDF using Gemini💁")
+    st.header("Chat with PDF using Gemini")
+
+    st.write("This application is designed for users of all age groups, from children to professionals. Whether you're a student looking to understand your study materials better or a professional seeking quick insights from your documents, you can easily chat with your PDF files and get the information you need.")
 
     user_question = st.text_input("Ask a Question from the PDF Files")
 
