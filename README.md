@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/abc62406-759b-4b4a-8088-77f2b1913b62
 # Gemini-RAG-Application
 
 This project is a Gemini-RAG-Application that utilizes various Python libraries for its functionality.
