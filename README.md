@@ -1,6 +1,6 @@
 # Gemini-RAG-Application
 
-This project is a Gemini-RAG-Application that utilizes various Python libraries for its functionality.
+This project is a Gemini-RAG-Application that utilizes various Python libraries for its functionality. (Demo is attached below and it works perfectly locally in your machine)
 
 ## Requirements
 
