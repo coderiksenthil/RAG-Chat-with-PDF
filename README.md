@@ -1,6 +1,6 @@
 # Gemini-RAG-Application
 
-This project is a Gemini-RAG-Application that utilizes various Python libraries for its functionality.
+This project is a Gemini-RAG-Application that utilizes various Python libraries for its functionality. (Demo is attached below and it works perfectly locally in your machine)
 
 ## Requirements
 
@@ -28,4 +28,8 @@ To run the application, use the following command:
 ```sh
 streamlit run app.py
 ```
+
+## Demo
+https://github.com/user-attachments/assets/03f4b802-7394-43c4-bc90-ba31d867eea5
+
 
