@@ -7,7 +7,7 @@ This project is a Gemini-RAG-Application that utilizes various Python libraries 
 The following Python libraries are required for this project:
 
 - streamlit
-- google-generativeai
+- google-generativeai   
 - python-dotenv
 - langchain
 - PyPDF2
@@ -18,4 +18,14 @@ The following Python libraries are required for this project:
 ## Installation
 
 To install the required libraries, you can use the following command:
+
+```sh
+pip install -r requirements.txt
+```
+
+To run the application, use the following command:
+
+```sh
+streamlit run app.py
+```
 
